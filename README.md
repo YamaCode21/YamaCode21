@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Bienvenido, soy Bradt 👋</b></h1>
+  <h1 align="center"><b>Bienvenido, soy YamaCode 👋</b></h1>
 </p>
 
 <p>
@@ -17,7 +17,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" width="50%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Soy Desarrollador Frontend(buscando ser fullstack)
 - 🔭 Actualmente soy estudiante de Desarrollo de Sistemas :grin:
