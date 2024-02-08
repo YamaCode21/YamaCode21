@@ -59,6 +59,4 @@
 
 <br>
 
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
-
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
